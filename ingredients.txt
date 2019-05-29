@@ -3,3 +3,7 @@ salt
 onions
 sugar
 basil
+water 
+flour
+butter 
+oil 
