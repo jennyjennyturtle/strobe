@@ -6,4 +6,10 @@ basil
 water 
 flour
 butter 
-oil 
+oil
+vegetable 
+meet 
+pork 
+fish 
+crab 
+clam  
