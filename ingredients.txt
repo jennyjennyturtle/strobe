@@ -13,3 +13,5 @@ pork
 fish 
 crab 
 clam  
+green onion
+wine
