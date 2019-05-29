@@ -1,2 +1,5 @@
 4 avocados 
 salt 
+onions
+sugar
+basil
